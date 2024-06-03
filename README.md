@@ -41,7 +41,7 @@
         <a href=https://gounjang.notion.site/Portfolio-2276cf79cd8a4522a177fd5b989285c3?pvs=4> 
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://gounjang.notion.site/Portfolio-2276cf79cd8a4522a177fd5b989285c3?pvs=4"> 
         </a>
-        <a href=https://sunshine3596-1.tistory.com/> 
+        <a href=https://goun-space.tistory.com/> 
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sunshine3596-1.tistory.com/"> 
         </a>
         <a href=mailto:goun3596@gmail.com> 
