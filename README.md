@@ -35,9 +35,6 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
-        <a href=https://velog.io/@goun3596/posts> 
-            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@goun3596/posts"> 
-        </a>
         <a href=https://gounjang.notion.site/Portfolio-2276cf79cd8a4522a177fd5b989285c3?pvs=4> 
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://gounjang.notion.site/Portfolio-2276cf79cd8a4522a177fd5b989285c3?pvs=4"> 
         </a>
