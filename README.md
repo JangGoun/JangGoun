@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> INTRODUCE </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 협업과 지속적 성장 지향 개발자 장고운입니다.😀  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기술 구현이 즐거운 개발자 장고운입니다.😀  </div> 
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
